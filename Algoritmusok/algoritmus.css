@@ -1,0 +1,105 @@
+body{
+    background-color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.cim
+{
+    color: black;
+    margin-bottom: 70px;
+   
+}
+
+.elso
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px 10px 10px 10px;
+    width: 890px;
+    height: 100px;
+    display: block;
+    border: 2px #64c3da solid;
+    margin-bottom: 30px;
+   
+    
+}
+.inside
+{
+    background: #ecf8fa;
+    width: 889px;
+    height: 48px;
+    display: block;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.masodik
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px 10px 10px 10px;
+    width: 900px;
+    height: 130px;
+    display: block;
+    border: 2px #f6972a solid;
+    margin-bottom: 5px;
+
+}
+
+.insideKetto
+{
+    background: #fef4e9;
+    width: 900px;
+    height: 48px;
+    display: block;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.info
+{
+    width: 25px;
+    height: 25px;
+   margin-left: 12px;
+   margin-top: 12px;
+
+}
+
+.warning
+{
+    width: 25px;
+    height: 25px;
+   margin-left: 12px;
+   margin-top: 12px;
+
+}
+
+#szovegEgy
+{
+  
+  margin-right: 710px;
+  float:inline-end;
+  margin-top: 12px;
+  font-size: 17px;
+
+}
+
+#szovegKetto
+{
+   
+  margin-top: -23px;
+  font-size: 17px;
+  font-weight: bolder;
+  margin-left: 90px;
+
+}
+
+#toltelek
+{
+    font-size: 11px;
+    margin-left: 5px;
+}
+#leves
+{
+    font-size: 11px;
+    margin-left: 20px;
+    
+}
